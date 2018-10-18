@@ -1,5 +1,5 @@
 var
-  nig: integer;
+  nig: string;
   
 begin
   write("fuck you, input anything: ");
