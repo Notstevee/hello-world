@@ -7,3 +7,9 @@ begin
   writeln("you just wrote '",nig,"', fuck you");
   readln;
 end.
+
+
+
+
+
+
